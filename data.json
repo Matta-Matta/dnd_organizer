@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Уэлби Лесной боярышник",
+      "char_type": "Герой",
+      "strength": 10,
+      "dexterity": 10,
+      "constitution": 10,
+      "intelligence": 10,
+      "wisdom": 18,
+      "charisma": 9,
+      "hp_current": 28,
+      "hp_max": 30,
+      "ac": 14,
+      "abilities": "Целитель\nУдача\nПроворность полуросликов",
+      "notes": "Любит побеседовать",
+      "initiative": 18,
+      "id": "cf2a53da-3c76-4dff-9911-637383083023"
+    },
+    {
+      "name": "Бляшка",
+      "char_type": "NPC",
+      "strength": 16,
+      "dexterity": 17,
+      "constitution": 10,
+      "intelligence": 8,
+      "wisdom": 8,
+      "charisma": 8,
+      "hp_current": 4,
+      "hp_max": 4,
+      "ac": 12,
+      "abilities": "разгон\nбодание",
+      "notes": "Жует лист с анекдотами\nХозяин Фермер, потерял её",
+      "initiative": 5,
+      "id": "e404c36a-7427-431a-adcb-797022a4b56e"
+    },
+    {
+      "name": "Гоблин Злоблин",
+      "char_type": "NPC",
+      "strength": 10,
+      "dexterity": 16,
+      "constitution": 12,
+      "intelligence": 10,
+      "wisdom": 9,
+      "charisma": 11,
+      "hp_current": 12,
+      "hp_max": 14,
+      "ac": 14,
+      "abilities": "Стая (преимущество атаки если рядом союзник)",
+      "notes": "При низком ХП просит о пощаде",
+      "initiative": 13,
+      "id": "123c78eb-5391-4537-b017-001c45901c39"
+    },
+    {
+      "name": "мпрсмрмпр",
+      "char_type": "Герой",
+      "strength": 10,
+      "dexterity": 10,
+      "constitution": 10,
+      "intelligence": 10,
+      "wisdom": 10,
+      "charisma": 10,
+      "hp_current": 10,
+      "hp_max": 10,
+      "ac": 10,
+      "abilities": "",
+      "notes": "",
+      "initiative": 0,
+      "id": "3c801c93-593d-4911-a926-7ea26be83000"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Встреча в лесу",
+      "text": "Друид Боярышник натыкается на гоблина, охраняющего похищенную козу Бляшку в клетке, гоблину не терпится полакомиться ею, поэтому чтобы побыстрее расправитсья с героем, он позвал собратьтев, которые вот вот примчатся верхом на крысах, Боярышнику нужно поторопиться!",
+      "status": "актуально",
+      "id": "4e9b3d10-a019-4501-bbfd-14d856abb8e3"
+    }
+  ],
+  "combat_ids": [
+    "cf2a53da-3c76-4dff-9911-637383083023",
+    "e404c36a-7427-431a-adcb-797022a4b56e",
+    "123c78eb-5391-4537-b017-001c45901c39"
+  ]
+}
